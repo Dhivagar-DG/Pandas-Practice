@@ -46,8 +46,8 @@ def series_using_2d():
     print(df)
     print("#"*50)
 
-# num_using_2d()
-# list_using_2d()
-# from_dict_using_2d()
-# dict_using_2d()
+num_using_2d()
+list_using_2d()
+from_dict_using_2d()
+dict_using_2d()
 series_using_2d()
